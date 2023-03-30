@@ -1,7 +1,8 @@
 from art import tprint
 tprint("PYTHON")
 from class1 import Hi
-def tprint(self, str):
-    print(self.str[::-1])
+# def tprint(self, str):
+#     print(self.str[::-1])
+tprint("new_Hello")
 
 
